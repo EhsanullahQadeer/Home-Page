@@ -1,0 +1,54 @@
+.login{
+background: rgba(238, 244, 255, 0.6);
+ font-family: 'Nunito';
+font-weight: 500;
+padding: 29px 0px 25px 0px;
+}
+.login-image img{
+    width: 100%;
+}
+.login-box h1{
+margin-top: 74px;
+font-size: 30px;
+line-height: 42px;}
+.login-box{
+margin-bottom: 37px;
+}
+.login-box form{
+font-size: 16px;
+}
+.input-box-login{
+ width: 550px;
+ height: 45px;
+ border: 1px solid #94D7D3;
+border-radius: 5px;
+margin-bottom: 30px;
+}
+.login-box a{
+    color: #0FCB02;
+}
+.login-checkbox-label{
+margin-left: 16px;
+}
+.forget-btn{
+   float: right;
+}
+@media (max-width:1040px) {
+    .input-box-login{
+        width:100%;
+    }
+    .login-sec-con{
+        padding-left: 24px !important;
+        padding-right: 24px !important;
+    }
+    .login-image img{
+display:none ;
+    }
+    .login-box h1{
+        margin-top: 40px;
+    }
+    .login-box{
+        margin-bottom: 5px;
+        }
+    
+}

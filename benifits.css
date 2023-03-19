@@ -1,0 +1,62 @@
+.benifits-sec{
+    text-align: center;
+    margin-top: 96px;
+}
+.benifits-card{
+    padding-top:71px;
+}
+.benifits-sec-card{
+display: flexbox;
+background: rgba(242, 244, 248, 0.6);
+margin-bottom: 30px;
+padding: 62px 28px 53px;
+max-height: 348px;
+}
+.benifits-sec-card img{
+    margin-bottom: 35px;
+}
+.benifits-sec-card h5{
+    margin-bottom: 24px;
+}
+.benifits-sec-card p{
+font-family: 'Poppins';
+max-width: 307px;
+max-height: 87px;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+color: #888888;
+overflow: hidden;
+display: inline-block;
+}
+
+.benifits-sec-heading h4{
+font-family: 'Nunito';
+font-weight: 500;
+font-size: 30px;
+line-height: 42px;
+color: #222222;
+}
+.benifits-sec-heading p{
+display: inline-block;
+max-width: 513px;
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 15px;
+line-height: 32px;
+color: #5C5C5C;
+}
+@media (max-width: 1040px) {
+    .benifits-sec{
+       margin-top: 80px;
+       padding-left: 24px !important ;
+            padding-right: 24px !important;
+    }
+    .benifits-card{
+        padding-top:10px;
+    }
+    .benifits-sec-card{
+        margin-bottom: 20px;
+    }
+    
+}

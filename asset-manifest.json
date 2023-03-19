@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Home-Page/static/css/main.c2cab247.css",
+    "main.js": "/Home-Page/static/js/main.433d72dd.js",
+    "static/media/question-2.png": "/Home-Page/static/media/question-2.3cf1840a44e701b35f53.png",
+    "static/media/3069.png": "/Home-Page/static/media/3069.ad4106beab0aa99aba1a.png",
+    "static/media/3072.png": "/Home-Page/static/media/3072.c939267c5e475c3b792c.png",
+    "static/media/3073.png": "/Home-Page/static/media/3073.6c7628e5b20dc7266ffd.png",
+    "static/media/3070.png": "/Home-Page/static/media/3070.1fb5618ef06970ada949.png",
+    "static/media/3071.png": "/Home-Page/static/media/3071.5c566695ab6d8dca49e0.png",
+    "static/media/join.png": "/Home-Page/static/media/join.e7e00dc6b2e25803ac14.png",
+    "static/media/about2.png": "/Home-Page/static/media/about2.046480d1fef5aad3b6c1.png",
+    "static/media/3067.png": "/Home-Page/static/media/3067.ca57e4810926345a4684.png",
+    "static/media/3068.png": "/Home-Page/static/media/3068.b5b84345cc24a042bd5b.png",
+    "static/media/about1.png": "/Home-Page/static/media/about1.6b11bd97636f118f7088.png",
+    "static/media/login.png": "/Home-Page/static/media/login.cfc7446dc8cc9947ae14.png",
+    "static/media/question.png": "/Home-Page/static/media/question.95bdb4e0f5c644c11084.png",
+    "static/media/image.png": "/Home-Page/static/media/image.dd32d5cafcb51f4f1bf1.png",
+    "static/media/3 1.png": "/Home-Page/static/media/3 1.7e8ea44e0505c389806f.png",
+    "static/media/6458919.png": "/Home-Page/static/media/6458919.3e6d9d64663b4cdda970.png",
+    "index.html": "/Home-Page/index.html",
+    "main.c2cab247.css.map": "/Home-Page/static/css/main.c2cab247.css.map",
+    "main.433d72dd.js.map": "/Home-Page/static/js/main.433d72dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.433d72dd.js"
+  ]
+}

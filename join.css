@@ -1,0 +1,82 @@
+.join-sec{
+background-image: url("./images/shape2 1.png");
+background-repeat: no-repeat;
+padding-top: 113px;
+margin-top: 77px;
+font-family: 'Poppins';
+font-weight: 400;
+}
+.join-heading{
+    text-align: center;
+}
+.join-heading h4{
+    font-family: 'Nunito';
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 42px;
+    color: #222222;
+}
+.join-heading p{
+display: inline-block;
+max-width: 593px;
+font-size: 15px;
+line-height: 32px;
+text-align: center;
+color: #737373;
+margin-top: 20px;
+margin-bottom:69px ;
+}
+.join-box {
+  font-family: 'Poppins';
+font-weight: 400;
+max-height: 124px;
+    margin-bottom: 30px;
+    padding-left: 32px; 
+    padding-right: 17px;
+    padding-top:22px ;
+background: rgba(255, 255, 255, 0.4);
+box-shadow: 1px 1px 13px rgba(0, 0, 0, 0.15);
+}
+
+.join-box h5{
+padding-left: 20px;
+font-size: 18px;
+line-height: 25px;
+color: #222222;
+}
+.join-box p{
+   max-width: 411px;
+   max-height:51px ;
+   overflow: hidden;
+ padding-left: 20px;
+font-size: 14px;
+line-height: 21px;
+color: #737373;
+}
+.join-sec-img img{
+    width: 100%;
+}
+
+
+@media (max-width:1040px) {
+    .join-sec-img img{
+display: none;
+    }
+    .join-box{
+        max-height: 124px;
+    }
+    .join-box p{
+        max-height: 47px;
+        max-width: 411px;
+        }
+        .join-sec{
+            padding-left: 24px !important ;
+            padding-right: 24px !important;
+            padding-top: 70px;
+           margin-top: 60px;
+        }
+        .join-heading p{
+            margin-bottom: 34px;
+        }
+
+}

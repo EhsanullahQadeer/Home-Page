@@ -1,0 +1,29 @@
+.learn-more-container {
+  position: static;
+  background: rgba(236, 242, 255, 0.7);
+  font-family: "Nunito";
+  font-style: normal;
+  padding: 85px 0px 63px 0px;
+}
+
+.learn-more-container p {
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 35px;
+  color: #5c5c5c;
+  margin-top: 25px;
+  margin-bottom: 29px;
+}
+.learn-more-container a{
+  background-color: transparent;
+}
+
+@media (max-width: 1040px) {
+  .learn-more-container {
+    padding: 44px 0px 0px;
+  }
+  .learn-more-box{
+padding-bottom: 44px;
+  }
+}
+

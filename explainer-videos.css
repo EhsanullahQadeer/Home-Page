@@ -1,0 +1,50 @@
+.explainer-videos-sec {
+  background-image: url(./images/BG-2.png);
+  background-repeat: no-repeat;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 500;
+  margin-top: 120px;
+  margin-bottom: 109px;
+}
+.explainer-videos-sec img{
+  width: 100%;
+}
+.explainer-videos-content {
+  max-width: 430px;
+  margin-top: 80px;
+}
+.explainer-videos-content h4 {
+  font-size: 30px;
+  line-height: 36px;
+  color: #4c4949;
+}
+.explainer-videos-content p {
+  font-size: 15px;
+  line-height: 25px;
+  color: #737373;
+}
+.exp-vid-b-img{
+  margin-top:29px;
+}
+@media (max-width:1040px) {
+  .explainer-videos-sec{
+    margin-top: 55px;
+    margin-bottom: 70px;
+  }
+  .explainer-videos-content {
+    margin-top: 20px;
+  }
+  .exp-vid-con{
+padding-left: 24px !important;
+padding-right: 24px !important;
+  }
+  .exp-vid-b-img{
+    margin-top:0px;
+  }
+  .exp-vid-btn{
+    margin-top:30px !important;
+    margin-bottom:40px !important;
+  }
+}
+
